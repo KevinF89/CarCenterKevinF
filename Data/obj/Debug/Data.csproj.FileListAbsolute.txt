@@ -1,0 +1,13 @@
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\Data.dll.config
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\Data.dll
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\Data.pdb
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.dll
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.pdb
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.Migrations.Toton.resources
+C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.csproj.GenerateResource.cache

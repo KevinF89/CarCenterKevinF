@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a9a5571a-de76-4cc7-b2ce-fed2d878d26a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49721/Mecanicos.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Mecanicos.xsd" MetadataType="Schema" ID="5c2f312d-15d2-4da3-8029-8f4610cdad13" SourceId="1" SourceUrl="http://localhost:49721/Mecanicos.svc?xsd=xsd0" />
+    <MetadataFile FileName="Mecanicos1.xsd" MetadataType="Schema" ID="0873ba74-4c3d-4ffa-af1e-b9f343eea1df" SourceId="1" SourceUrl="http://localhost:49721/Mecanicos.svc?xsd=xsd1" />
+    <MetadataFile FileName="Mecanicos2.xsd" MetadataType="Schema" ID="7f48d4c0-dc3a-4c74-a0d0-758da7473e6f" SourceId="1" SourceUrl="http://localhost:49721/Mecanicos.svc?xsd=xsd2" />
+    <MetadataFile FileName="Mecanicos.disco" MetadataType="Disco" ID="2df02692-56c7-45d8-9401-edee7f4e7ab0" SourceId="1" SourceUrl="http://localhost:49721/Mecanicos.svc?disco" />
+    <MetadataFile FileName="Mecanicos.wsdl" MetadataType="Wsdl" ID="2b97365d-f531-49b0-b7d9-e92d68006b20" SourceId="1" SourceUrl="http://localhost:49721/Mecanicos.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

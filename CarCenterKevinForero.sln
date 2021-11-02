@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC", "WebMVC\WebMVC.csproj", "{304E6FB5-3DA5-4552-84BA-7BE1BE886A33}"
+	ProjectSection(ProjectDependencies) = postProject
+		{049FFE55-6C30-4166-96D4-095B6AC1DC42} = {049FFE55-6C30-4166-96D4-095B6AC1DC42}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Bussiness\Business.csproj", "{B9BC6CC3-9172-496F-BCC0-466C81C82547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{65D09907-0A66-4F83-B9E0-0F6459BC592F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFCarCenter", "WCFCarCenter\", "{049FFE55-6C30-4166-96D4-095B6AC1DC42}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{b9bc6cc3-9172-496f-bcc0-466c81c82547}|Bussiness.dll;{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}|Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49721"
+		Debug.AspNetCompiler.PhysicalPath = "WCFCarCenter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49721\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49721"
+		Release.AspNetCompiler.PhysicalPath = "WCFCarCenter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49721\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49721"
+		SlnRelativePath = "WCFCarCenter\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304E6FB5-3DA5-4552-84BA-7BE1BE886A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304E6FB5-3DA5-4552-84BA-7BE1BE886A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304E6FB5-3DA5-4552-84BA-7BE1BE886A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304E6FB5-3DA5-4552-84BA-7BE1BE886A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9AAE57-2C6E-419A-9CC4-4FDAFDC05B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BC6CC3-9172-496F-BCC0-466C81C82547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC6CC3-9172-496F-BCC0-466C81C82547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC6CC3-9172-496F-BCC0-466C81C82547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC6CC3-9172-496F-BCC0-466C81C82547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D09907-0A66-4F83-B9E0-0F6459BC592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D09907-0A66-4F83-B9E0-0F6459BC592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D09907-0A66-4F83-B9E0-0F6459BC592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D09907-0A66-4F83-B9E0-0F6459BC592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049FFE55-6C30-4166-96D4-095B6AC1DC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049FFE55-6C30-4166-96D4-095B6AC1DC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049FFE55-6C30-4166-96D4-095B6AC1DC42}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{049FFE55-6C30-4166-96D4-095B6AC1DC42}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B818CE08-0F64-41D2-B1BB-14922D5742EB}
+	EndGlobalSection
+EndGlobal

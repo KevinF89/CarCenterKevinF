@@ -11,3 +11,16 @@ C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.dll
 C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.pdb
 C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.Migrations.Toton.resources
 C:\Users\User\Source\repos\CarCenterKevinForero\Data\obj\Debug\Data.csproj.GenerateResource.cache
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\Data.dll.config
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\Data.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\Data.pdb
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\EntityFramework.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\EntityFramework.xml
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.Migrations.Toton.resources
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.csproj.GenerateResource.cache
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.csproj.CopyComplete
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Data\obj\Debug\Data.pdb

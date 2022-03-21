@@ -26,3 +26,17 @@ E:\kevinfv\PruebaKevinForero\CarCenterKevinForero\Bussiness\obj\Debug\Business.c
 E:\kevinfv\PruebaKevinForero\CarCenterKevinForero\Bussiness\obj\Debug\Business.csproj.CopyComplete
 E:\kevinfv\PruebaKevinForero\CarCenterKevinForero\Bussiness\obj\Debug\Bussiness.dll
 E:\kevinfv\PruebaKevinForero\CarCenterKevinForero\Bussiness\obj\Debug\Bussiness.pdb
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\obj\Debug\Business.csprojAssemblyReference.cache
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\obj\Debug\Bussiness.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\obj\Debug\Bussiness.pdb
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Bussiness.dll.config
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Bussiness.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Bussiness.pdb
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Data.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\EntityFramework.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Data.pdb
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\Data.dll.config
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\EntityFramework.xml
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+E:\kevinfv\PruebaKevinForero\CarCenterKevinF\Bussiness\obj\Debug\Business.csproj.CopyComplete

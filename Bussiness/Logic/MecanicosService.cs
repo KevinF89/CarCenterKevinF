@@ -14,10 +14,6 @@ namespace Business.Logic
     {
         private Context context = new Context();
 
-        //public MecanicosService(Context context)
-        //{
-        //    context = this.context;
-        //}
 
         public bool CreateMecanico(Mecanicos mecanicos)
         {
